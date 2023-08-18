@@ -107,7 +107,7 @@ You should test all of the properties in returned object.
 
 **Stretch Challenge 7** - Parameterize the `fizzbuzz()` function. Currently the function looks for multiples of 3 and 5. The code here would be more useful if we could look for multiples of any two values. Imagine fizz for multiples of 2 and buzz for multiples of 7. 
 
-The fizzbuzz functio might look like this: 
+The fizzbuzz function might look like this: 
 
 `fizzBuzz(count, fizzOn = 3, buzzOn = 5)`
 
