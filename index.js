@@ -1,5 +1,7 @@
-const fb = require('./fizzbuzz')
+//https://github.com/Make-School-Labs/fizz-buzz-test
 
-const results = fb.fizzBuzz(100)
+const fb = require('./fizzbuzz');
 
-console.log(results)
+const results = fb.fizzBuzz(100);
+
+console.log(results);
